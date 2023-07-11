@@ -1,8 +1,8 @@
-@import url("header/styles.css");
-@import url("category/styles.css");
-@import url("product/styles.css");
-@import url("ease/styles.css");
-@import url("newsletter/styles.css");
+@import url("./header/styles.css");
+@import url("./category/styles.css");
+@import url("./product/styles.css");
+@import url("./ease/styles.css");
+@import url("./newsletter/styles.css");
 
 * {
     margin: 0;
