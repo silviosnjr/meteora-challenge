@@ -1,0 +1,23 @@
+@import url("/styles/header/styles.css");
+@import url("/styles/category/styles.css");
+@import url("/styles/product/styles.css");
+@import url("/styles/ease/styles.css");
+@import url("/styles/newsletter/styles.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.container-principal {
+    margin: 0 10vw;
+}
+
+footer {
+    background-color: black;
+    color: #ffffff;
+    padding: 1.063rem 0;
+    text-align: center;
+}

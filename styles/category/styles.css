@@ -1,0 +1,25 @@
+.title-category {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    text-align: center;
+
+}
+
+.list-category {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.list-category li p {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px 0;
+}
+
+.category {
+    margin: 4.625rem 0;
+}
